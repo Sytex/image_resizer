@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>image_resizer_example</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Sytex needs access to Apple Music to allow you to play music while you are working with the app.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Sytex needs calendar access to remiders and events from the app.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Sytex app needs camera access to take photos for the form.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Sytex app needs contact access to provide you direct phone calls and register new contacts.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Sytex app needs location usage permission to inform on each media file and answer the location where it was generated.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Sytex app needs location usage permission to inform on each media file and answer the location where it was generated.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Sytex app needs microphone usage permission to record audios to be included in the form.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Sytex needs access to your pedometer In order to count steps.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Sytex app needs photo library access to get pictures from there and assign them to the form.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Sytex needs access to speech recognition to get voice instructions from you.</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
